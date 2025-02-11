@@ -1,9 +1,0 @@
-<html>
-<head>
-    <title>Welcome</title>
-</head>
-<body>
-    <h1>Welcome to <b>Microservice</b> Page of <b>Machine2</b></h1>
-    <p>Congratulations......! Service and Page has been accessed</p>
-</body>
-</html>
